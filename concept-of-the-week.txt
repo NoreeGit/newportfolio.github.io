@@ -1,0 +1,1 @@
+content/typescript/concepts/interfaces/interfaces.md
